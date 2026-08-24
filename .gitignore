@@ -1,0 +1,17 @@
+# Файлы PDF
+*.pdf
+
+# Файлы PNG
+*.png
+
+# Файлы SVG
+*.svg
+
+# Файлы XML
+*.xml
+
+# Кеш Python 3
+__pycache__
+
+# За исключением изображения примера
+!thumbnail.png
